@@ -1,0 +1,8 @@
+.venv/
+
+.vscode/
+.fleet/
+.idea/
+.idx/
+
+.dev/
